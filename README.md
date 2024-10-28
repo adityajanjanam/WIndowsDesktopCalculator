@@ -16,7 +16,7 @@ To use this calculator, you can download the executable (.exe) or MSI installer 
 - No need to install Python or any additional libraries when using the provided `.exe` or `.msi`.
 
 ## Usage
-1. **Download** the `.exe` or `.msi` installer from the [releases](#).
+1. **Download** the `.exe` or `.msi` installer from the [releases](https://github.com/adityajanjanam/WIndowsDesktopCalculator/releases)
 2. **Run** the application on your Windows machine.
 3. Enter numbers and click the corresponding operation button (e.g., `+`, `-`, `*`, `/`) to perform calculations.
 
